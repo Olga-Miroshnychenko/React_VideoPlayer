@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 3284,
+  "expoServerNgrokUrl": "https://an-6g5.anonymous.music-player-app.exp.direct",
+  "packagerNgrokUrl": "https://packager.an-6g5.anonymous.music-player-app.exp.direct",
+  "ngrokPid": 6428,
+  "webpackServerPort": null
+}
