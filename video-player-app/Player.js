@@ -292,7 +292,6 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         alignSelf: 'stretch',
         backgroundColor: BACKGROUND_COLOR,
-
     },
     portraitContainer: {
         marginTop: 80,
@@ -336,8 +335,5 @@ const styles = StyleSheet.create({
     },
     buttonsContainerBottomRow: {
         alignSelf: 'stretch',
-    },
-    rateSlider: {
-        width: DEVICE_WIDTH - 80,
     },
 });
